@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bibliophile</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="add">ADD</string>
+    <string name="number_of_pages">Number of Pages</string>
+    <string name="update">Update</string>
+    <string name="_1">1</string>
+    <string name="title_1">Title 1</string>
+    <string name="author_1">Author 1</string>
+    <string name="_120">120</string>
+    <string name="delete">delete</string>
+    <string name="no_data">NO DATA!:(</string>
+</resources>
